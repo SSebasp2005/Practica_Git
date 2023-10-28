@@ -1,1 +1,2 @@
-# Practica_Git
+## Practica_Git
+JAJAJAJ práctica de Gus y Yo (SS)
